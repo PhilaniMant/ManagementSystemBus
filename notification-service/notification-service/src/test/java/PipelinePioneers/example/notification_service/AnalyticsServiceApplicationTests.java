@@ -1,13 +1,16 @@
-package PipelinePioneers.ManagementSystemBus;
+package PipelinePioneers.example.notification_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ManagementSystemBusApplicationTests {
+public class AnalyticsServiceApplicationTests
+{
 
 	@Test
-	void contextLoads() {
+	void contextLoads()
+	{
+
 	}
 
 }

@@ -1,10 +1,10 @@
 import axios from "axios";
 
-const ROUTE_SERVICE_URL = "http://localhost:8082/api/routes";
-const SCHEDULE_SERVICE_URL = "http://localhost:8083/api/schedules";
-const TICKET_SERVICE_URL = "http://localhost:8081/api/tickets";
-const USER_SERVICE_URL = "http://localhost:8084/api/auth";
-const NOTIFICATION_SERVICE_URL = "http://localhost:8085/api/notifications";
+const ROUTE_SERVICE_URL = "http://localhost:8084/api/routes";
+const SCHEDULE_SERVICE_URL = "http://localhost:8085/api/schedules";
+const TICKET_SERVICE_URL = "http://localhost:8087/api/tickets";
+const USER_SERVICE_URL = "http://localhost:8088/api/auth";
+const NOTIFICATION_SERVICE_URL = "http://localhost:8083/api/notifications";
 const ANALYTICS_SERVICE_URL = "http://localhost:8086/api/analytics";
 
 export const ApiService = {
